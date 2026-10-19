@@ -1,0 +1,14 @@
+{
+  "theme": "system",
+  "accent": "blue",
+  "number_format": "id",
+  "max_decimals": 10,
+  "always_on_top": false,
+  "window": {
+    "width": 525,
+    "height": 850,
+    "x": 200,
+    "y": 120
+  },
+  "last_mode": "standard"
+}
